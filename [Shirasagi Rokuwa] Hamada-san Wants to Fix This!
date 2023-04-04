@@ -1,0 +1,25 @@
+{
+   "title":"[Shirasagi Rokuwa] Hamada-san Wants to Fix This!",
+   "description":"",
+   "author":"Shirasagi Rokuwa",
+   "artist":"Shirasagi Rokuwa",
+   "cover":"https://i.imgur.com/d6kzU4B.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/2fRZpPY"
+         },
+         "last_updated":1624606143,
+         "title":"Hamada-san Wants to Fix This!",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/mzkuBUq"
+         },
+         "last_updated":1624606143,
+         "title":"Hamada-san Has Already Fixed This!",
+         "volume":"2"
+      }
+   }
+}
